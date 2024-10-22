@@ -22,7 +22,7 @@
 2. Вскипятить воду
 3. Намолоть ~18,5гр. кофе
 
-![](https://github.com/antoshind/coffee-with-ozon/blob/main/1.jpg)
+!(https://github.com/antoshind/coffee-with-ozon/blob/main/1.jpg)
 
 4. На весы поставить френч-пресс, пересыпать в него молотый кофе и залить 200гр. горячей воды
 
