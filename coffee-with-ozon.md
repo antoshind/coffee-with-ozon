@@ -32,7 +32,7 @@
 
 ![](https://github.com/antoshind/coffee-with-ozon/blob/main/4.jpg)
 > Важно не заваривать кофе дольше, чем две с половиной минуты. Чем дольше взаимодействие кофе с водой, тем больше в нем будет появляться горьких оттенков, которые нам не нужны в этой чашке.
-7. Не вынимая пресс перелить в чашку
+6. Не вынимая пресс перелить в чашку
 
 ![](https://github.com/antoshind/coffee-with-ozon/blob/main/6.jpg)
 ![](https://github.com/antoshind/coffee-with-ozon/blob/main/7.jpg)
