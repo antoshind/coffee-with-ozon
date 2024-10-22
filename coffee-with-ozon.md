@@ -22,19 +22,19 @@
 2. Вскипятить воду
 3. Намолоть ~18,5гр. кофе
 
-!(https://github.com/antoshind/coffee-with-ozon/blob/main/1.jpg)
+![](https://github.com/antoshind/coffee-with-ozon/blob/main/1.jpg)
 
 4. На весы поставить френч-пресс, пересыпать в него молотый кофе и залить 200гр. горячей воды
 
-![screanshot](https://github.com/antoshind/coffee-with-ozon/blob/main/2.jpg)
+![](https://github.com/antoshind/coffee-with-ozon/blob/main/2.jpg)
 
 5. Закрыть крышкой (прессом) на две с половиной минуты
 
-![screanshot](https://github.com/antoshind/coffee-with-ozon/blob/main/4.jpg)
+![](https://github.com/antoshind/coffee-with-ozon/blob/main/4.jpg)
 > Важно не заваривать кофе дольше, чем две с половиной минуты. Чем дольше взаимодействие кофе с водой, тем больше в нем будет появляться горьких оттенков, которые нам не нужны в этой чашке.
 7. Не вынимая пресс перелить в чашку
 
-![screanshot](https://github.com/antoshind/coffee-with-ozon/blob/main/6.jpg)
-![screanshot](https://github.com/antoshind/coffee-with-ozon/blob/main/7.jpg)
+![](https://github.com/antoshind/coffee-with-ozon/blob/main/6.jpg)
+![](https://github.com/antoshind/coffee-with-ozon/blob/main/7.jpg)
 
 Результат — ~200мл искристого и яркого черного кофе. Это чуть больше половины средней чашки. Если вам нужно больше, то увеличивайте пропорционально объемы всех компонентов.
